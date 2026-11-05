@@ -99,17 +99,6 @@ LIMIT 1;
 
 Este projeto tem como finalidade consolidar os conhecimentos em bancos de dados relacionais, desenvolver o raciocínio lógico por meio de consultas SQL e compreender como estruturar e manipular informações utilizando MySQL.
 
-Também representa uma etapa da minha preparação para trabalhar com desenvolvimento Back-end, especialmente na integração de bancos de dados com aplicações desenvolvidas em Java e Spring Boot.
-
-## Próximas melhorias
-
-- [ ] Criar uma tabela de transações bancárias.
-- [ ] Implementar operações de depósito.
-- [ ] Implementar operações de saque.
-- [ ] Desenvolver operações de transferência entre contas.
-- [ ] Trabalhar com transações SQL (`COMMIT` e `ROLLBACK`).
-- [ ] Implementar consultas mais avançadas utilizando `GROUP BY` e `HAVING`.
-- [ ] Futuramente, integrar o banco de dados com uma aplicação Java.
 
 ---
 
